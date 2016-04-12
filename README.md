@@ -1,4 +1,4 @@
-# Goals of this plugin
+## Goals of this plugin
 
 When a conference is set up, registration for the conference should go through the WordPress website that uses this plugin.
 
