@@ -1,6 +1,7 @@
 ## Goals of this plugin
 
-When a conference is set up, registration for the conference should go through the WordPress website that uses this plugin.
+This wordpress plugin exists to help organizing a conference through a WP website.
+When a conference is set up, registration for the conference could go through the WordPress website that uses this plugin.
 
 It should support setting up a form that asks configurable questions:
 
@@ -12,3 +13,6 @@ It should support setting up a form that asks configurable questions:
 * Diet wishes
 * Join the final Banquet
 
+## Documentation reference
+
+* On [creating tables with plugins](https://codex.wordpress.org/Creating_Tables_with_Plugins).
